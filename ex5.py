@@ -28,3 +28,14 @@ print "His teeth are usually %s depending on the coffee." %my_hair
 print "if I add %d, %d, and %d I get %d." % (# <-- before this was where my mistake was!!!!
 my_age, my_height, my_weight, my_age + my_height + my_weight)
 
+# ---------------------------------------------------------------------------
+
+name = 'Eric J. Knickmeyer'
+age = 23
+height = 72
+weight = 160
+eyes = 'Blue'
+teeth = 'White'
+hair = 'Brown'
+
+
